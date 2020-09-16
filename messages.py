@@ -7,7 +7,7 @@ print (message)
 
 
 #2-2 More simple messages
-'''write a new message variable (like message2 = "", then change the message'''
+'''write a new message variable (like message2 = "", print it, then change the message and print it again.'''
 
 
 #Using f-strings
