@@ -22,7 +22,7 @@ a message to that person using an f-string. Your message should be simple, such 
 would you like to learn some Python today?”'''
 
 #print the answer to 4*2
-print(4*2)
+
 
 
 
