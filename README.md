@@ -1,5 +1,5 @@
-# gcseprogramming
-Programming Activities for the GCSE Computing Course.
+# programmingintro
+Programming Activities for an introduction to Python.
 
 Order to Complete:
 1. helloworld.py
